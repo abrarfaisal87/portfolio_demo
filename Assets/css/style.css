@@ -49,8 +49,7 @@ img{
     justify-content: center;
     /* padding-top: 80px; */
     padding-bottom: 80px;
-    
-border-bottom: 2px solid rgba(white, white, white, 0.1) ;
+    border-bottom: 2px solid rgba(white, white, white, 0.1) ;
 }
 .shadow-effect{
     transition: all 0.5s;
